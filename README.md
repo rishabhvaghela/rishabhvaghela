@@ -16,16 +16,15 @@
 
 ## 🛠️ Skills
 - Frontend: HTML, CSS, JavaScript
-- Backend: PHP (Basic), Java (Basic)
-- Database: MySQL
+- Backend: node.js (Basic), Express(Basic)
+- Database: MySQL(Basic), MongoDB(Basic)
 - Tools: Git, GitHub, XAMPP
 
 ---
 
 ## 📌 Projects
-- 📝 Notes Sharing App (In Progress)
-- 🔐 Login & Authentication System
-- 📊 GST Calculator (Java Project)
+- To-Do List Using Js
+- Virtual Internship Hub
 
 ---
 
